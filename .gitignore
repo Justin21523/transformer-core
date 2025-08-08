@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+env-*
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
